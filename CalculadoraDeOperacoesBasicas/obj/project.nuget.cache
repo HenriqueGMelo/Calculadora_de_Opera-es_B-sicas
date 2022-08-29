@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l+RVtpEGnD8S7IF913Rw7EXw6f1r+/VWK4VivsyDwqAjKp5Svbj681+npBuZ9Kxh00vgUXei9aHsCC1hsBBbWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Henrique\\Documents\\Avulsos\\CalculadoraDeOperacoesBasicas\\CalculadoraDeOperacoesBasicas\\CalculadoraDeOperacoesBasicas\\CalculadoraDeOperacoesBasicas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
